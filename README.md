@@ -17,9 +17,4 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=kontmanstein&color=red)
 
-<p align="center">
-<br>
-<a href="https://discord.com/users/910221843842101278">
-        <img src="https://lanyard.cnrad.dev/api/6910221843842101278?idleMessage=Hmm...&borderRadius=25px" />
-    </a>
-</p>
+[![Discord Presence](https://lanyard.cnrad.dev/api/910221843842101278)](https://discord.com/users/910221843842101278)
