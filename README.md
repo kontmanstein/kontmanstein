@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=kontmanstein&color=red)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/910221843842101278)](https://discord.com/users/910221843842101278)
+
+[![Discord Bots](https://top.gg/api/widget/902658708163661864.svg)(https://top.gg/bot/902658708163661864)
